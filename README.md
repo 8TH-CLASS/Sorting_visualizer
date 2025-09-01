@@ -1,4 +1,4 @@
-                                                                        ********# Sorting Visualizer in Java****************
+                                                             ********# Sorting Visualizer in Java************
 
 Welcome to the **Sorting Visualizer**! 🎉
 This Java-based project brings sorting algorithms to life by visually (not right now, but in the future, yes!!!) demonstrating how they work step by step.
