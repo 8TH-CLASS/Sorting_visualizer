@@ -1,4 +1,4 @@
-********# Sorting Visualizer in Java****************
+                                                                        ********# Sorting Visualizer in Java****************
 
 Welcome to the **Sorting Visualizer**! 🎉
 This Java-based project brings sorting algorithms to life by visually (not right now, but in the future, yes!!!) demonstrating how they work step by step.
@@ -37,5 +37,5 @@ ________________________________________________________________________________
 * **Custom Input** – Enter your own dataset and watch it get sorted in real time.
 
 ---
-
-Would you like me to also **add sections like “Installation & Usage” and “Tech Stack”** so that your README looks more professional for GitHub?
+                                                                  
+                                                      PSA: WORKING ON FRONTEND IN THE FUTURE YOU WILL SEE A FULL FUNCTIONAL WEBSITE  
